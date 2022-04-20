@@ -1,5 +1,7 @@
 # Seja Bem Vindo! 👨‍💻
 
+- 🎓 Análise e Desenvolvimento de Sistemas
+
 <div style="display: inline_block">
     <a href="https://github.com/Alexandre752">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Alexandre752&show_icons=true&theme=gotham&https://github.com/Alexandre752/github-readme-stats)">
