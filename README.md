@@ -1,6 +1,6 @@
 # Seja Bem Vindo! 👨‍💻
 
-- 🎓 Análise e Desenvolvimento de Sistemas
+- 🎓 Análise e Desenvolvimento de Sistemas | UNINTER Centro Universitário Internacional
 ##
 <div style="display: inline_block">
     <a href="https://github.com/Alexandre752">
