@@ -1,4 +1,4 @@
-# Seja Bem Vindo! 👨‍💻
+# Seja bem vindo! 👨‍💻
 
 - 🎓 Análise e Desenvolvimento de Sistemas | UNINTER Centro Universitário Internacional
 ##
