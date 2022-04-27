@@ -4,8 +4,8 @@
 ##
 <div style="display: inline_block">
     <a href="https://github.com/Alexandre752">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Alexandre752&show_icons=true&theme=chartreuse-dark&https://github.com/Alexandre752/github-readme-stats)">
-     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre752&layout=compact&theme=chartreuse-dark&https://github.com/Alexandre752/github-readme-stats)">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Alexandre752&show_icons=true&theme=chartreuse-dark&https://github.com/Alexandre752/github-readme-stats)">
+     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexandre752&layout=compact&theme=chartreuse-dark&https://github.com/Alexandre752/github-readme-stats)">
 </div>
 
 ### SOCIAL ✔
